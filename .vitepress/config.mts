@@ -1,28 +1,19 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
+import sidebar from "./sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "IA-Cours",
-  description: "A VitePress Site",
+  description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "Accueil", link: "/" },
+      { text: "Glossaire", link: "/" },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: sidebar,
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+    socialLinks: [{ icon: "github", link: "https://github.com/squareface27" }],
+  },
+});

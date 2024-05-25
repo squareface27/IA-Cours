@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "IA-Cours"
   text: ""
-  tagline: My great project tagline
+  tagline:
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,8 +15,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Introduction
+    details: Comment définir l’IA ?
+    link: Introduction/Préambule/index.md
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
