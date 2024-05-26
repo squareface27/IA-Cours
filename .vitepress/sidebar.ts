@@ -22,7 +22,7 @@ export default [
           },
         ],
       },
-      { text: "IA ou pas IA ?", link: "/cours/ia-ou-pas-ia.md" },
+      { text: "IA ou pas IA ?", link: "/Introduction/IA-ou-pas-IA/index.md" },
     ],
   },
 ];
