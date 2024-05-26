@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Accueil", link: "/" },
-      { text: "Glossaire", link: "/" },
+      { text: "Glossaire", link: "/Glossaire/index.md" },
     ],
 
     sidebar: sidebar,
