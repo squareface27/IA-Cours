@@ -1,3 +1,11 @@
 {
-  "type": "module"
+  "name": "IA-Cours",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vitepress build"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0"
+  }
 }
