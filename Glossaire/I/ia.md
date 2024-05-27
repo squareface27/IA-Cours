@@ -4,7 +4,7 @@
 
 1. **Apprentissage** : Les systèmes d'IA peuvent apprendre à partir de données, en utilisant des techniques comme <span style="color:rgb(244,164,96)">l'apprentissage supervisé</span>, <span style="color:rgb(244,164,96)">l'apprentissage non supervisé</span> et <span style="color:rgb(244,164,96)">l'apprentissage par renforcement</span> pour améliorer leurs performances au fil du temps.
 2. **Raisonnement** : L'IA peut prendre des décisions basées sur des règles logiques et des algorithmes, permettant la résolution de problèmes complexes et la prise de décisions en temps réel.
-3. **Reconnaissance de la parole et des images** : Grâce à des <span style="color:rgb(244,164,96)">réseaux de neurones</span> profonds, les systèmes d'IA peuvent comprendre et interpréter des données visuelles et auditives, comme la reconnaissance vocale et la <span style="color:rgb(244,164,96)">vision par ordinateur</span>.
+3. **Reconnaissance de la parole et des images** : Grâce à des <span style="color:rgb(244,164,96)">réseaux de neurones</span> profonds, les systèmes d'IA peuvent comprendre et interpréter des données visuelles et auditives, comme la reconnaissance vocale et la [<span style="color:rgb(244,164,96)">vision par ordinateur</span>](/Glossaire/C/computervision.md).
 4. **Traitement du langage naturel (NLP)** : L'IA est capable de comprendre, interpréter et générer du langage humain, ce qui permet des interactions naturelles entre les machines et les utilisateurs.
 5. **Planification et optimisation** : Les algorithmes d'IA peuvent planifier des actions optimales pour atteindre des objectifs spécifiques, et optimiser les processus et les ressources.
 

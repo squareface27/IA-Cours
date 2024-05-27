@@ -3,7 +3,7 @@
 Les voitures autonomes utilisent plusieurs techniques d’IA pour fonctionner efficacement :
 
 - <u>**Recherche et planification**</u> : Trouver l’itinéraire optimal.
-- <u>**Vision par ordinateur**</u> : Identifier les obstacles.
+- [<u>**Vision par ordinateur**</u>](/Glossaire/C/computervision.md) : Identifier les obstacles.
 - <u>**Prise de décision**</u> : Réagir en cas d’incertitude dans un environnement complexe.
 
 Ces techniques doivent être très précises pour éviter les accidents. Les mêmes technologies sont aussi utilisées dans d’autres systèmes autonomes comme les **robots de livraison** et les **drones**.
