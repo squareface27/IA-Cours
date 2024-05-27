@@ -1,0 +1,9 @@
+## Définition de la vision par ordinateur
+
+<span style="color:rgb(244,164,96)">La vision par ordinateur</span> est un domaine de l'informatique qui se concentre sur le développement de technologies permettant aux machines de comprendre et d'interpréter des informations visuelles à partir du monde réel, similaire à la perception visuelle humaine. Les algorithmes de <span style="color:rgb(244,164,96)">vision par ordinateur</span> utilisent majoritairement des <span style="color:rgb(244,164,96)">réseaux de neurones</span>, et notamment les <span style="color:rgb(244,164,96)">CNN</span>. Voici quelques exemples de tâches par vision par ordinateur établies :
+
+1. **<span style="color:rgb(244,164,96)">La classification d'images</span>** voit une image et peut la classifier (un chien, une pomme, le visage d'une personne). Plus précisément, elle est capable de prévoir avec précision qu'une image donnée appartient à une certaine classe.
+
+2. **La détection** détecte la position d'un objet ou plusieurs objets sur une image. **Le suivi** d'objets suit un objet une fois qu'il est détecté. Cette tâche est souvent exécutée avec des images capturées en séquence ou des flux vidéo en temps réel. Les véhicules autonomes, par exemple, doivent non seulement classer et détecter des objets tels que des piétons, d'autres voitures et des infrastructures routières, mais ils doivent également les suivre en mouvement pour éviter les collisions et respecter le code de la route.
+
+Les applications de la vision par ordinateur sont vastes et incluent des domaines tels que la sécurité, la médecine (analyse d'images médicales), l'industrie automobile (véhicules autonomes), la robotique, l'agriculture de précision, et bien d'autres. Les avancées récentes en apprentissage profond et en intelligence artificielle ont considérablement amélioré les capacités de la vision par ordinateur, rendant possible une automatisation et une analyse plus sophistiquées des données visuelles.

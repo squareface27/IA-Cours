@@ -4,6 +4,8 @@
 
 ## C
 
+[**Computer Vision (vision par ordinateur)**](/Glossaire/C/computervision.md)
+
 ## D
 
 ## E
