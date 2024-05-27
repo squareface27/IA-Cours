@@ -8,6 +8,8 @@
 
 ## D
 
+[**Deepfake**](/Glossaire/D/deepfake.md)
+
 ## E
 
 ## F
