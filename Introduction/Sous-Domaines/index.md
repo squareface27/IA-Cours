@@ -2,7 +2,7 @@
 
 ![Picture](/imgs/Ai_domain_and_subdomain.png){ width="400" height="371" style="display: block; margin: 0 auto" }
 
-<a style='display: block; text-align: center;' href="https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-lapprentissage-automatique">source</a>
+<a style='display: block; text-align: center;' href="https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/introduction-a-lapprentissage-automatique" target="_blank">source</a>
 
 <br>
 
