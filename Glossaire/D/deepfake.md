@@ -1,5 +1,3 @@
-# Les Deepfakes
-
 ## Qu'est-ce qu'un Deepfake ?
 
 Les deepfakes sont des vidéos, des images ou des enregistrements audio créés à l'aide de [<span style="color:rgb(244,164,96)">l'intelligence artificielle</span>](/Glossaire/I/ia.md) pour simuler de manière convaincante des personnes réelles en train de dire ou de faire des choses qu'elles n'ont jamais dites ou faites. Le terme "deepfake" est une combinaison de [<span style="color:rgb(244,164,96)">"deep learning" (apprentissage profond)</span>](/Glossaire/) et "fake" (faux).

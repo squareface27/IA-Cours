@@ -46,6 +46,8 @@
 
 ## S
 
+[**Supercomputer**](/Glossaire/S/supercomputer.md)
+
 ## T
 
 ## U
