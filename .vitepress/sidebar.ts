@@ -23,6 +23,10 @@ export default [
         ],
       },
       { text: "IA ou pas IA ?", link: "/Introduction/IA-ou-pas-IA/index.md" },
+      {
+        text: "Les sous-domaines de l'IA",
+        link: "/Introduction/Sous-Domaines/index.md",
+      },
     ],
   },
 ];
