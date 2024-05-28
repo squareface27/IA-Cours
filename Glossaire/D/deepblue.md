@@ -4,4 +4,4 @@ DeepBlue est un [<span style="color:rgb(244,164,96)">superordinateur</span>](/Gl
 
 <br>
 
-DeepBlue a marqué un tournant dans [<span style="color:rgb(244,164,96)">l'intelligence artificielle</span>](/Glossaire/), démontrant la capacité des machines à accomplir des tâches intellectuelles complexes et ouvrant la voie à de futures innovations technologiques.
+DeepBlue a marqué un tournant dans [<span style="color:rgb(244,164,96)">l'intelligence artificielle</span>](/Glossaire/I/ia.md), démontrant la capacité des machines à accomplir des tâches intellectuelles complexes et ouvrant la voie à de futures innovations technologiques.
