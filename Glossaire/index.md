@@ -8,6 +8,10 @@
 
 ## D
 
+[**DeepBlue**](/Glossaire/D/deepblue.md)
+
+<br>
+
 [**Deepfake**](/Glossaire/D/deepfake.md)
 
 ## E
