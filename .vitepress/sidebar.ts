@@ -61,8 +61,8 @@ export default [
                 link: "/Programmation/Python/Guide/installation.md",
               },
               {
-                text: "Syntaxe",
-                link: "/Programmation/Python/Guide/syntaxe.md",
+                text: "Structure",
+                link: "/Programmation/Python/Guide/structure.md",
               },
               {
                 text: "Variables",
