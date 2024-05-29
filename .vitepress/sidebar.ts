@@ -55,7 +55,44 @@ export default [
           {
             collapsed: true,
             text: "Guide",
-            items: [{}],
+            items: [
+              {
+                text: "Installation",
+                link: "/Programmation/Python/Guide/installation.md",
+              },
+              {
+                text: "Syntaxe",
+                link: "/Programmation/Python/Guide/syntaxe.md",
+              },
+              {
+                text: "Variables",
+                link: "/Programmation/Python/Guide/variables.md",
+              },
+              {
+                text: "Opérateurs",
+                link: "/Programmation/Python/Guide/opérateurs.md",
+              },
+              {
+                text: "Conditions",
+                link: "/Programmation/Python/Guide/conditions.md",
+              },
+              {
+                text: "Boucles",
+                link: "/Programmation/Python/Guide/boucles.md",
+              },
+              {
+                text: "Fonctions",
+                link: "/Programmation/Python/Guide/fonctions.md",
+              },
+              {
+                text: "Listes",
+                link: "/Programmation/Python/Guide/listes.md",
+              },
+              {
+                text: "Dictionnaires",
+                link: "/Programmation/Python/Guide/dictionnaires.md",
+              },
+            ],
           },
           {
             collapsed: true,
