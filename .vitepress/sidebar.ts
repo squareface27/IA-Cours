@@ -51,7 +51,23 @@ export default [
       {
         collapsed: true,
         text: "Python",
-        items: [{}],
+        items: [
+          {
+            collapsed: true,
+            text: "Méthodes basiques",
+            items: [{}],
+          },
+          {
+            collapsed: true,
+            text: "Librairies",
+            items: [{}],
+          },
+          {
+            collapsed: true,
+            text: "Ressources",
+            items: [{}],
+          },
+        ],
       },
       {
         collapsed: true,
