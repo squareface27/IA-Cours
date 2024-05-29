@@ -54,7 +54,7 @@ export default [
         items: [
           {
             collapsed: true,
-            text: "Méthodes basiques",
+            text: "Guide",
             items: [{}],
           },
           {
