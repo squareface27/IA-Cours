@@ -30,15 +30,34 @@ export default [
     ],
   },
   {
+    collapsed: true,
     text: "Machine Learning",
     items: [{}],
   },
   {
+    collapsed: true,
     text: "Réseau de neurones",
     items: [{}],
   },
   {
+    collapsed: true,
     text: "Deep Learning",
     items: [{}],
+  },
+  {
+    collapsed: true,
+    text: "Programmation",
+    items: [
+      {
+        collapsed: true,
+        text: "Python",
+        items: [{}],
+      },
+      {
+        collapsed: true,
+        text: "R (prochainement)",
+        items: [{}],
+      },
+    ],
   },
 ];

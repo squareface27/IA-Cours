@@ -11,8 +11,8 @@ hero:
       text: Python
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: R (prochainement)
+      link: /
 
 features:
   - title: Introduction
