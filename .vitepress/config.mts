@@ -15,6 +15,8 @@ export default defineConfig({
 
     sidebar: sidebar,
 
-    socialLinks: [{ icon: "github", link: "https://github.com/squareface27" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/squareface27/IA-Cours" },
+    ],
   },
 });

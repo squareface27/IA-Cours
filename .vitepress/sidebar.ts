@@ -29,4 +29,16 @@ export default [
       },
     ],
   },
+  {
+    text: "Machine Learning",
+    items: [{}],
+  },
+  {
+    text: "Réseau de neurones",
+    items: [{}],
+  },
+  {
+    text: "Deep Learning",
+    items: [{}],
+  },
 ];

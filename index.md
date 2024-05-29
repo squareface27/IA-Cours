@@ -8,7 +8,7 @@ hero:
   tagline:
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Python
       link: /markdown-examples
     - theme: alt
       text: API Examples
@@ -18,8 +18,10 @@ features:
   - title: Introduction
     details: Comment définir l’IA ?
     link: Introduction/Préambule/index.md
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Machine Learning
+    details: Comment fonctionne le Machine Learning ?
+  - title: Réseau de neurones
+    details: Comment fonctionne un Réseau de neurones
+  - title: Deep Learning
+    details: Comment fonctionne le Deep Learning ?
 ---
