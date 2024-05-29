@@ -65,7 +65,12 @@ export default [
           {
             collapsed: true,
             text: "Ressources",
-            items: [{}],
+            items: [
+              {
+                text: "Cheat Sheets",
+                link: "/Programmation/Python/Ressources/cheatsheets.md",
+              },
+            ],
           },
         ],
       },
