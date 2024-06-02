@@ -12,7 +12,7 @@ hero:
       link: https://squareface27.github.io/ParcoursCertification/
     - theme: brand
       text: Python
-      link: /markdown-examples
+      link: /Programmation/Python/Guide/installation.md
     - theme: alt
       text: R (prochainement)
       link: /
