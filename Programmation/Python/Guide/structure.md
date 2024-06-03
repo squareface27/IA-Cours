@@ -1,9 +1,18 @@
 ## Structure d'un programme :
 
-Pour commenter du code Python, il suffit d'ajouter un hashtag (#) exemple :
+Pour commenter du code Python, il suffit d'ajouter un hashtag `(#)` exemple :
 
 ```python
 # Ceci est un commentaire en Python
+```
+
+<br>
+
+Pour commenter du code Python sur plusieurs lignes, il suffit de mettre `"""` au début du commentaire et à la fin du commentaire exemple : 
+
+```python
+""" Ceci est un
+commentaire multiligne"""
 ```
 
 <br>
