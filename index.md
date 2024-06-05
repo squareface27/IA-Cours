@@ -8,9 +8,6 @@ hero:
   tagline:
   actions:
     - theme: brand
-      text: Diaporama
-      link: https://squareface27.github.io/ParcoursCertification/
-    - theme: brand
       text: Python
       link: /Programmation/Python/Guide/installation.md
     - theme: alt
