@@ -8,3 +8,4 @@
 - <a  href="https://www.geeksforgeeks.org/python-cheat-sheet/" target="_blank">GeeksForGeeks</a>
 - <a  href="https://zerotomastery.io/cheatsheets/python-cheat-sheet/" target="_blank">Python - ZeroToMastery</a>
 - <a  href="https://www.geeksforgeeks.org/python-opencv-cheat-sheet/" target="_blank">OpenCV - ZeroToMastery</a>
+- <a  href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf" target="_blank">Pandas</a>
