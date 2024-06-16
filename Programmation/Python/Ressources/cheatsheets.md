@@ -11,5 +11,6 @@
 - <a  href="https://www.geeksforgeeks.org/python-opencv-cheat-sheet/" target="_blank">OpenCV - ZeroToMastery</a>
 - <a  href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf" target="_blank">Pandas</a>
 - <a  href="https://www.geeksforgeeks.org/numpy-cheat-sheet/" target="_blank">NumPy</a>
+- <a  href="https://images.datacamp.com/image/upload/v1676302389/Marketing/Blog/Scikit-Learn_Cheat_Sheet.pdf" target="_blank">Scikit-Learn</a>
 <br>
 - <a  href="https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf" target="_blank">Git</a>
