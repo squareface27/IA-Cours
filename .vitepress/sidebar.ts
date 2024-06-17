@@ -113,8 +113,24 @@ export default [
       },
       {
         collapsed: true,
-        text: "R (prochainement)",
-        items: [{}],
+        text: "R",
+        items: [
+          {
+            collapsed: true,
+            text: "Guide",
+            items: [{}],
+          },
+          {
+            collapsed: true,
+            text: "Ressources",
+            items: [
+              {
+                text: "Cheat Sheets",
+                link: "/Programmation/R/Ressources/cheatsheets.md",
+              },
+            ]
+          }
+        ],
       },
     ],
   },
