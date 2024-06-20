@@ -129,6 +129,10 @@ export default [
                 text: "Structure",
                 link: "/Programmation/R/Guide/structure.md",
                 },
+                {
+                text: "Fonctions de base",
+                link: "/Programmation/R/Guide/fonctionsbasiques.md",
+                },
             ],
             
             }],
