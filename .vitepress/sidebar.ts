@@ -118,11 +118,19 @@ export default [
           {
             collapsed: true,
             text: "Guide",
-            items: [{
-              items: [{
+            items: [
+              {
+              items: [
+                {
                 text: "Type de données",
                 link: "/Programmation/R/Guide/type-de-donnees.md",
-              }]
+                },
+                {
+                text: "Structure",
+                link: "/Programmation/R/Guide/structure.md",
+                },
+            ],
+            
             }],
           },
           {
