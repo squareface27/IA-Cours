@@ -3,6 +3,7 @@
 <br>
 <br>
 
+- <a  href="https://www.pythoncheatsheet.org/" target="_blank">Python complet</a>
 - <a  href="https://squareface.fr/pdf/python-cheatsheets.pdf" target="_blank">Data Science (Python Basics + Jupyter Notebook + NumPy + SciPy + Pandas + Scikit-Learn + Matplotlib + Seaborn + Bokeh)</a>
 - <a  href="https://quickref.me/python.html" target="_blank">Python Standard</a>
 - <a  href="https://www.codewithharry.com/blogpost/python-cheatsheet/" target="_blank">Python</a>
